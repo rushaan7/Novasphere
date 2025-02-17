@@ -151,7 +151,7 @@ const Hero = () => {
             </h1>
 
             <p className="mb-5 max-w-64 font-robert-regular text-blue-100">
-              Entrepreneur, Physicist, Investor <br /> Intern at Niti Aayog, Govt. of India <br /> Data Scientist at Amazon.in
+              We Design, We Craft, We Inovate <br /> Client-first ethos <br /> End-to-end services <br /> Blockchain-powered dApp Enterprise-grade software
             </p>
 
             <Button

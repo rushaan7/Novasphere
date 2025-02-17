@@ -103,12 +103,10 @@ const Features = () => (
     <div className="container mx-auto px-3 md:px-10">
       <div className="px-5 py-32">
         <p className="font-circular-web text-lg text-blue-50">
-          Into the Metagame Layer
+          We don’t just design digital products—we craft experiences that resonater
         </p>
         <p className="max-w-md font-circular-web text-lg text-blue-50 opacity-50">
-          Immerse yourself in a rich and ever-expanding universe where a vibrant
-          array of products converge into an interconnected overlay experience
-          on your world.
+          We pride ourselves on a client-first ethos, delivering end-to-end services from ideation to ongoing management. Whether it’s a sleek user interface, a blockchain-powered dApp, or enterprise-grade software. 
         </p>
       </div>
 
